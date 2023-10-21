@@ -1,2 +1,2 @@
 # Myprojects
-Hey this is just a my projecys works 
+Hey this is just my project works 
